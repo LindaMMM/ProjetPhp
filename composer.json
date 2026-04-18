@@ -6,7 +6,7 @@
         "phormium/phormium": "~0.8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7",
+        "phpunit/phpunit": "^12.5",
         "mockery/mockery": "0.9.6"
     },
     "autoload": {
